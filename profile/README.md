@@ -22,3 +22,9 @@ and a frontend web application built with React for interacting with the API and
 - JavaScript
 - React
 - Axios (for making HTTP requests to the backend API)
+
+### Hosting
+
+- Backend hosted on Heroku
+- postgreSQL DB hosted on AWS
+- Front end web hosted on Firebase Hosting
