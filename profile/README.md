@@ -1,11 +1,24 @@
-## Hi there 👋
+# Fridge Tracker Application
 
+The Fridge Tracker application is a full-stack web application for managing fridges and their owners.
 
+## Description
 
-**Here are some ideas to get you started:**
+The application consists of a backend RESTful API built with Java and Spring Boot for managing users and fridges, 
+and a frontend web application built with React for interacting with the API and displaying the data.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Technologies User
+### Backend
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- PostgreSQL (as the database)
+- Maven
+
+### Frontend
+
+- HTML/CSS
+- JavaScript
+- React
+- Axios (for making HTTP requests to the backend API)
