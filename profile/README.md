@@ -7,7 +7,7 @@ The Fridge Tracker application is a full-stack web application for managing frid
 The application consists of a backend RESTful API built with Java and Spring Boot for managing users and fridges, 
 and a frontend web application built with React for interacting with the API and displaying the data.
 
-## Technologies User
+## Technologies Used
 ### Backend
 
 - Java
