@@ -11,10 +11,9 @@ and a frontend web application built with React for interacting with the API and
 ### Backend
 
 - Java
-- Spring Boot
+- Spring Boot (Maven)
 - Spring Data JPA
 - PostgreSQL (as the database)
-- Maven
 
 ### Frontend
 
